@@ -42,4 +42,4 @@ View original and processed images.
 
 Automatically download the final output.
 
-This project demonstrates the integration of AI-driven image processing with an easy-to-use interface, making it a useful tool for both personal and professional us
+This project demonstrates the integration of AI-driven image processing with an easy-to-use interface, making it a useful tool for both personal and professional use
